@@ -1,0 +1,15 @@
+table{
+    margin: 20px auto; 
+    width:200px;
+    text-align: center;
+}
+th,td,table {
+    border: 1px solid lightgrey;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 10px;
+}
+th {
+    background-color: lightcyan;
+}
